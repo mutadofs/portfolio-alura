@@ -1,6 +1,6 @@
 <h1>Portfolio - Alura</h1>
 
-<p>Esse projeto foi realizado com intuito de expandir meu conhecimento e por em prática o que foi ensinado no curso da de HTML e CSS da Alura, o portfólio é bastante simples, porém tem um design bem interessante e acessível.</p>
+<p>Esse projeto foi realizado com intuito de expandir meu conhecimento e por em prática o que foi ensinado no curso de HTML e CSS da Alura, o portfólio é bastante simples, porém tem um design bem interessante e acessível.</p>
 <img src="https://gcdnb.pbrd.co/images/OPhE1HeHMYXH.png?o=1" />
 
 ## Tecnologias utilizadas
